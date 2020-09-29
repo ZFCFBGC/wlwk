@@ -1,0 +1,240 @@
+common.Remember	Remember me
+common.SetPack	set package
+common.ChangePwd	change password
+common.SerialNo	serialNO
+common.ICPNum	粤ICP备16079067号-3
+common.NO	No
+common.item	item
+common.Abnormal	abnormal
+common.BootRecord	boot record
+common.ShutRecord	shutdown record
+common.Dialogue	dialog
+common.LatestUseTime	latest used time
+common.CardDetails	card details
+common.OverduePayment	overdue payment
+common.ESIM	patch card
+common.SearchCardNumber	search card number
+common.TestPeriod	test period
+common.ReportStat	Report statistics
+common.DataStat	Flow statistics
+common.IncludeSub	including subordinates
+common.PackageData	package flow
+common.UsedData	used flow
+common.SerialNO	serialNO
+common.PackageName	package name
+common.SMSStat	SMS statistics:
+common.SMSTip	domestic messages are charged according to the amount sent: 0.5 yuan/piece, and 2 free gifts within the validity period; international SMS sending and receiving are charged: 1.00 yuan/piece, 2 free gifts within the validity period
+common.DemoSMS	domestic SMS
+common.InterSMS	International SMS
+common.BelongType	type
+common.SendSMSAmount	send SMS (item)
+common.ReceiveSMS	receive SMS(item)
+common.PaidAmount	amount paid (yuan)
+common.ViewDetails	view details
+common.SMSRecord	SMS record
+common.ViewMore	view more messages
+common.SendSuc	send successfully
+common.SendFailed	send failed
+common.Sender	sender
+common.StopStartStat	Stop and start statistics
+common.ModifyPackagePrice	modify package price
+common.TransferPriceAdj	transfer price adjustment
+common.AdjCategory	price adjustment category
+common.OriginalPrice	original price (yuan)
+common.PriceChange	price change (yuan)
+common.PostPrice	price after adjustment (yuan)
+common.Operator	operator
+common.PackManagement	套餐管理
+common.MonthlyCard	月卡
+common.AnnualCard	年卡
+common.OrdinaryVoice	普通语音
+common.OnShelf	上架
+common.OffShelf	下架
+common.Voice	语音(min)
+common.ExceedData	可超出流量
+common.TestData	测试流量
+common.DataUnitPrice	流量单价(元/M)
+common.VoiceUnitPriceWithUnit	语音单价(元/30min)
+common.MonthWithUnit	月(元)
+common.YearWithUnit	年(元)
+common.RetailMonth	零售月(元)
+common.RetailYear	零售年(元)
+common.DataSize	流量大小
+common.CostPrice	成本价
+common.RetailPrice	零售价钱
+common.Yearly	每年
+common.SingleMonth	单月
+common.GoBack	返回
+common.AgentPrice	代理价格
+common.RemoveTip	确定要将{0}下架吗
+common.SimImport	SIM卡导入
+common.BatchNo	批次号
+common.GZMobile	广州移动
+common.GZMobileEC	广州移动EC
+common.IntlCard	国际卡A\\B\\C\\D
+common.ZJMobile	浙江移动
+common.JXMobile	江西移动
+common.YS	银盛
+common.AHMobile	安徽移动
+common.HNMobile	河南移动
+common.ImportDate	导入时间
+common.APNType	APN类型
+common.CardForm	卡形态
+common.PatchCard	贴片卡
+common.NonPatchCard	非贴片卡
+common.TotalNumber	总条数
+common.ViewDetail	查看详情
+common.ClickToDl	点击下载模板文件
+common.StatusTimePeriod	状态时间段
+common.ImportCardStatus	导入时卡状态
+common.StatusEndTime	状态结束时间
+common.FlowSize	流量大小
+common.VoiceSize	语音大小
+common.SimRefreshTip	4、SIM卡刷新：因供应商平台不同的接口性能限制，处理时长在15min——30min之间，请知悉！
+common.InvalidSimRefresh	失效SIM卡刷新
+common.SubmitTime	提交时间
+common.ShowAll	显示全部
+common.Pending	待处理
+common.InProcess	处理中
+common.SucceedProcess	处理成功
+common.FailProcess	处理失败
+common.Batch	批次
+common.InvalidCardImport	失效SIM卡导入
+common.ShutdownTip	注：由于访问限制，每分钟关机不超过15部！
+common.Exec	执行
+common.ExecAgain	重新执行
+common.CardStatus	卡状态
+common.Succeed	成功
+common.Failed	失败
+common.FlowPool	流量池管理
+common.NewFlowPool	新建流量池
+common.NewTime	新建时间
+common.Deactivate	停用
+common.Enable	启用
+common.FlowPoolNo	流量池编号
+common.FlowPoolName	流量池名称
+common.UsedPercent	使用百分比
+common.WarningPhone	预警手机
+common.Top	置顶
+common.SingleCardMonthData	单卡月流量
+common.PoolMember	池子成员
+common.PoolCount	当前{0}个
+common.PoolTotal	池子总量
+common.ExpirePool	流量池到停
+common.WarningThreshold	预警阈值
+common.AddPoolMember	添加池子成员
+common.InputCardPlaceholder	请输入卡号
+common.CurrentCardCount	当前{0}个
+common.SerialCardInput	连号输入
+common.FileImport	文件导入
+common.Template	模板
+common.InputCardNoTip	一行输入一个卡号
+common.CardList	卡号列表
+common.SimCard	SIM卡
+common.SimCardManage	SIM卡管理
+common.Role	角色
+common.AdvancedSearch	高级搜索
+common.BatchSearch	批量查询
+common.SearchByMonth	按月度查询
+common.SearchByDataRange	按流量使用范围查询
+common.IncludeSubAccount	包含子账号
+common.Collapse	收起
+common.ImportNotes	导入备注
+common.IntelDiagnosis	智能诊断
+common.SubUsers	下级用户
+common.AddTime	新增时间
+common.CheckPermission	查看功能权限
+common.ContactPhone	联系手机
+common.ResetTip	重置后密码为：123456，是否确定要重置？
+common.ResetConfirm	重置成功！
+common.DetailList	详单
+common.CustomerRelationship	客户关系
+common.AccountBalance	账户余额
+common.RenewTime	续费时间
+common.PayAmount	支付金额
+common.PayConfirm	确定要支付{0}元吗？
+common.ConfirmTip	支付成功！
+common.RenewSucceedTip	因接口延迟，3min内续费成功，请耐心等待
+common.SearchCardPlaceHolder	请输入卡号/ICCID
+common.CardCount	一共：{0}张
+common.BatchRenewImport	批量导入卡续费
+common.BatchRenewTip	注：导入批量卡续费均需续费一年；
+common.VoiceCharge	语音充值
+common.PayAmountWithFormat	支付金额{0}元
+common.VoiceChargeConfirm	确定为{0}语音充值{1}吗？
+common.PaySucceed	支付成功！
+common.VoiceChargeFail	该卡号暂不支持语音叠加！
+common.FlowCharge	流量充值
+common.Repayment	欠费补缴：一共{0}张，共欠{1}MB，应付金额：{2}元
+common.OrdinaryOverlap	常规叠加：{0}MB/张，一共{1}张，共{2}MB
+common.AdditionalCard	追加卡
+common.CardRenewCount	一共：{0}张
+common.OnAndOffTip	确定要将{0}停机/开机吗？
+common.CustomerTransfer	客户转移
+common.CustomerName	客户名称
+common.SimCount	SIM卡数量
+common.SimUnit	张
+common.TransferTo	转移给
+common.TransferLog	转移记录
+common.TransferTip	确定要将{0}以及其下级用户和SIM卡转移给{1}吗？
+common.TransferSucceed	转移成功！
+common.OriginalCustomer	原所属客户
+common.CurrentCustomer	现所属客户
+common.OperateTime	操作时间
+common.DeleteUser	删除用户
+common.DeleteFailTip	该用户下有客户以及有效的SIM卡，不可删除！
+common.DeleteSucceedTip	删除成功！
+common.BatchSearchTip	在此输入需要批量查询的卡号，多个卡号请换行
+common.CardRemarks	卡号备注
+common.VoiceUsage	语音用量（min）
+common.SMSUsage	短信用量（条）
+common.DataUsage	流量用量(MB)
+common.DataErrorDiagnosis	数据通信故障诊断
+common.CommunicationService	通信服务
+common.AllowSimUse	SIM卡允许使用数据服务
+common.Testable	可测试
+common.InternetConnection	网络连接
+common.OrdinaryUser	普通用户
+common.FinancialManage	财务管理
+common.SimAutoRenew	SIM卡自动续费
+common.FlowAutoRenew	流量自动续费
+common.WithdrawalAccount	提现账户管理
+common.IncomeExpenseDetail	收支明细
+common.IncomeExpense	收支类型
+common.Income	收入
+common.Expense	支出
+common.ChargeOnline	在线充值
+common.CorporateTransfer	对公转账
+common.Rebate	返利
+common.RenewSimCard	SIM卡续费
+common.SMSCost	短信消耗
+common.DetailInside	详细说明
+common.AuditSucceed	审核通过
+common.AuditFailed	审核不通过
+common.ChargeAccountBalance	账户余额充值
+common.ChargeBalanceAmount	充值金额{0}元
+common.CorporateAccount	对公账户
+common.Bank2	银行
+common.AccountName	开户名
+common.IncomeAmount	转入金额
+common.TransferToAccount	转出账户
+common.WithdrawAccountManage	提现账户管理
+common.AccountType	账户类型
+common.IDNumber	身份证号码
+common.UploadCert	上传证明
+common.NoFileSelected	未选择任何文件
+common.VerifyCode	验证码
+common.UpdateAccount	更新账户
+common.SubmissionTime	审核时间
+common.WithdrawalStatus	提现状态
+common.WithdrawalDetail	查看详情
+common.PendingPayment	待打款
+common.WithdrawalSuccess	提现成功
+common.OrderNumber	订单号
+common.WithdrawalMethod	提现方式
+common.BankAccount	银行卡号
+common.AccountBank	开户银行
+common.FailReason	不通过原因
+common.ReviewTime	审核时间
+common.ApprovedTime	审核通过时间
+common.PaymentTime	打款时间

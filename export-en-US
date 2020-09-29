@@ -1,0 +1,269 @@
+common.Remember	remember me
+common.SetPack	set package
+common.ChangePwd	change password
+common.SerialNo	serialNo
+common.ICPNum	粤ICP备16079067号-3
+common.NO	no
+common.item	item
+common.Abnormal	abnormal
+common.BootRecord	开机记录
+common.ShutRecord	停机记录
+common.Dialogue	dialogue
+common.LatestUseTime	latest used time
+common.CardDetails	card details
+common.OverduePayment	overdue payment
+common.ESIM	e-sim
+common.SearchCardNumber	search by card number
+common.TestPeriod	test period
+common.ReportStat	report statistics 
+common.DataStat	flow statistics
+common.IncludeSub	include sub-account number,
+common.PackageData	package flow
+common.UsedData	used flow
+common.SerialNO	serialNo
+common.PackageName	package name
+common.SMSStat	SMS statistics
+common.SMSTip	domestic SMS is charged according to the amount sent: 0.5 yuan/item, 2 free gifts within the validity period
+common.DemoSMS	domestic SMS
+common.InterSMS	International SMS
+common.BelongType	type
+common.SendSMSAmount	send SMS amount(item)
+common.ReceiveSMS	receive SMS amount(item)
+common.PaidAmount	paid amount
+common.ViewDetails	view detail
+common.SMSRecord	SMS record
+common.ViewMore	view more
+common.SendSuc	send succeed
+common.SendFailed	send failed
+common.Sender	sender
+common.StopStartStat	Stop and start statistics
+common.ModifyPackagePrice	modify package price
+common.TransferPriceAdj	transfer price adjustment
+common.AdjCategory	price adjustment category
+common.OriginalPrice	original price
+common.PriceChange	price change
+common.PostPrice	price after adujustment
+common.Operator	operator
+common.PackManagement	package management
+common.MonthlyCard	monthly card
+common.AnnualCard	annual card
+common.OrdinaryVoice	ordinary card
+common.OnShelf	on shelf
+common.OffShelf	off shelf
+common.Voice	voice
+common.ExceedData	exceed data
+common.TestData	test data
+common.DataUnitPrice	data unit price per megabit
+common.VoiceUnitPriceWithUnit	voice unit price per 30min
+common.MonthWithUnit	monthly
+common.YearWithUnit	annual
+common.RetailMonth	retail month
+common.RetailYear retail year
+common.DataSize	flow size
+common.CostPrice	cost price
+common.RetailPrice	retail price
+common.Yearly	annually
+common.SingleMonth	single month
+common.GoBack	go back
+common.AgentPrice	agent price
+common.RemoveTip	sure to put off the shelf
+common.SimImport	SIM cards import
+common.BatchNo	batch number
+common.GZMobile	Guangzhou Mobile
+common.GZMobileEC Guangzhou Mobile EC
+common.IntlCard	international card \\A\\B\\C
+common.ZJMobile	Zhejiang mobile
+common.JXMobile	Jiangxi mobild
+common.YS	Yinsheng
+common.AHMobile	Anhui Mobile
+common.HNMobile	Henan Mobile
+common.ImportDate	import time
+common.APNType	APN type
+common.CardForm	card form
+common.PatchCard	patch sim card
+common.NonPatchCard	non patch sim card
+common.TotalNumber	total number
+common.ViewDetail	view detail
+common.ClickToDl	click to download template
+common.StatusTimePeriod	status time period
+common.ImportCardStatus	card status while import
+common.StatusEndTime	status end time
+common.FlowSize	flow size
+common.VoiceSize	voice size
+common.SimRefreshTip	Be aware due to the different interface performance limitations of the supplier's platform, the processing time is between 15min and 30min.
+common.InvalidSimRefresh	invalid SIM card refresh
+common.SubmitTime	submit time
+common.ShowAll	show all
+common.Pending	pending
+common.InProcess	in process
+common.SucceedProcess	process succeed
+common.FailProcess	process failed
+common.Batch	batch
+common.InvalidCardImport	invalid SIM card import
+common.ShutdownTip	Tip: Due to access restrictions, no more than 15 shutdowns per minute! Execution
+common.Exec execute
+common.ExecAgain	re-execute
+common.CardStatus	card status
+common.Succeed	succeed
+common.Failed	failed
+common.FlowPool	flow pool management
+common.NewFlowPool	new flow pool
+common.NewTime	new time
+common.Deactivate	deactivate
+common.Enable	enable
+common.FlowPoolNo	flow pool number
+common.FlowPoolName	flow pool name
+common.UsedPercent	used percentage
+common.WarningPhone	warning phone
+common.Top	top
+common.SingleCardMonthData	single card monthly flow
+common.PoolMember	pool member
+common.PoolCount	total count
+common.PoolTotal	pool total
+common.ExpirePool	expire pool
+common.WarningThreshold	wanring threshold
+common.AddPoolMember	add pool member
+common.InputCardPlaceholder	please input card number
+common.CurrentCardCount	current card count
+common.SerialCardInput	serial card input
+common.FileImport	file import
+common.Template	template
+common.InputCardNoTip	one card number at a line
+common.CardList	card list
+common.SimCard	SIM cards
+common.SimCardManage	SIM card management
+common.Role	role
+common.AdvancedSearch	advance search
+common.BatchSearch	batch search
+common.SearchByMonth	search by month
+common.SearchByDataRange	search by flow range
+common.IncludeSubAccount	include sub-account
+common.Collapse	collapse
+common.ImportNotes	import notes
+common.IntelDiagnosis	intelligent diagnosis
+common.SubUsers	sub-users
+common.AddTime	add time
+common.CheckPermission	view function permissions
+common.ContactPhone	contact phone
+common.ResetTip	the password is 123456 after reset, are you sure you want to reset? 
+common.ResetConfirm	Reset successfully!
+common.DetailList	detail list
+common.CustomerRelationship	customer relationship
+common.AccountBalance	account balance
+common.RenewTime	renew time
+common.PayAmount	pay amount
+common.PayConfirm	sure to pay
+common.ConfirmTip	payment succeed!
+common.RenewSucceedTip	Due to the interface delay, the renewal is successful within 3 minutes, please be patient
+common.SearchCardPlaceHolder	请please enter the card number/ICCID
+common.CardCount	card count
+common.BatchRenewImport	batch import card renewal
+common.BatchRenewTip	Note: Renewal of imported bulk cards requires renewal for one year
+common.VoiceCharge	voice charge
+common.PayAmountWithFormat	pay amount
+common.VoiceChargeConfirm	sure to charge voice
+common.PaySucceed	payment succeed
+common.VoiceChargeFail	The card number does not support voice overlay yet!
+common.FlowCharge	flow charge
+common.Repayment	arrearage repayment: a total of {0}, total owed {1}MB, payable amount: {2} yuan
+common.OrdinaryOverlap	conventional stacking: {0}MB / piece, a total of {1} piece, a total of {2}MB
+common.AdditionalCard	additional card
+common.CardRenewCount	total:{0}
+common.OnAndOffTip	Are you sure you want to shut down/start {0}?
+common.CustomerTransfer	Customer transfer
+common.CustomerName	customer name
+common.SimCount	number of SIM cards
+common.SimUnit	item
+common.TransferTo	transfer to
+common.TransferLog	transfer log
+common.TransferTip	are you sure you want to transfer {0} and its subordinate users and SIM card to {1}? 
+common.TransferSucceed	The transfer was successful
+common.OriginalCustomer	original customer
+common.CurrentCustomer	current customer
+common.OperateTime	operation time
+common.DeleteUser	delete user
+common.DeleteFailTip	This user has a customer and a valid SIM card, which cannot be deleted! successfully deleted!
+common.DeleteSucceedTip	delete succeed
+common.BatchSearchTip	Enter the card numbers that need batch query here.
+common.CardRemarks	card remarks
+common.VoiceUsage	voice usage
+common.SMSUsage	SMS usage(item)
+common.DataUsage	flow usage(MB)
+common.DataErrorDiagnosis	data communication fault diagnosis
+common.CommunicationService	communication service
+common.AllowSimUse	SIM card allows the use of data services
+common.Testable	testable
+common.InternetConnection	internet connection
+common.OrdinaryUser	ordinary user
+common.FinancialManage	Financial Management
+common.SimAutoRenew	SIM card automatic renewal
+common.FlowAutoRenew	flow automatic renewal
+common.WithdrawalAccount	cash withdrawal account management
+common.IncomeExpenseDetail	income and expenditure details
+common.IncomeExpense	income and expenditure type
+common.Income	income
+common.Expense	expenditure
+common.ChargeOnline	online recharge
+common.CorporateTransfer	corporate transfer
+common.Rebate	rebate
+common.RenewSimCard	SIM card renewal
+common.SMSCost	SMS consumption
+common.DetailInside	detailed description
+common.AuditSucceed	approval passed
+common.AuditFailed	review failed
+common.ChargeAccountBalance	Account balance recharge
+common.ChargeBalanceAmount	recharge amount:
+common.CorporateAccount	corporate account
+common.Bank2	bank
+common.AccountName	account name
+common.IncomeAmount	transfer amount
+common.TransferToAccount	transfer out account
+common.WithdrawAccountManage	Withdrawal account management
+common.AccountType	account type
+common.IDNumber	ID number
+common.UploadCert	upload certificate
+common.NoFileSelected	no file selected
+common.VerifyCode	verification code
+common.UpdateAccount update account
+common.SubmissionTime	review time
+common.WithdrawalStatus	withdrawal status
+common.WithdrawalDetail	Withdrawal details
+common.PendingPayment	pending payment
+common.WithdrawalSuccess	withdrawal success
+common.OrderNumber	order number
+common.WithdrawalMethod	withdrawal method
+common.BankAccount	bank card number
+common.AccountBank	bank account
+common.FailReason	reason for failure
+common.ReviewTime	review time
+common.ApprovedTime	approved time
+common.PaymentTime payment time
+common.ConstructionBank	Construction Bank
+common.Modify	edit
+common.Superior	superior
+common.WithdrawalAccountAudit	cash withdrawal audit
+common.BalanceChargeAudit	account balance recharge audit
+common.AuditOperation	audit operation
+common.UploadAuthentication	uploading vouchers
+common.AuditTip	the audit fails to be required, the reason for not passing, the operation of the money, the money has been paid, the money payer, the reviewer;
+common.SimChargeRecord	SIM card recharge record
+common.ChargeTime	recharge time
+common.OrderOrCardNo	order number/card number
+common.RechargeUser	recharge user
+common.RechargeType	recharge method
+common.OfflineCharge	Offline recharge
+common.RechargeContent	recharge content
+common.FileTemplateDownload	file template download
+common.RebateRecord	Rebate record
+common.RolePermission	Role permissions
+common.PermissionTip	Agents can create roles and assign permissions to the roles. During account management-creating new accounts, each account can be given corresponding role permissions (only applicable to internal account roles, and does not affect role permissions when creating new customers)
+common.NewRole	new role
+common.RoleName	role name
+common.RoleSetting	permission setting
+common.AccountManage	Account management
+common.NewAccount	New account
+common.ViewEditPermission	view and modify Authority
+common.OperationLog	Operation log
+common.OperationTip	can monitor and manage the business operations of each role account of the user, name/account
+common.IPAddress	IP address
+common.DetailContent	specific content

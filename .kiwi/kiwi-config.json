@@ -1,0 +1,13 @@
+{
+  "kiwiDir": "./.kiwi",
+  "configFile": "./.kiwi/kiwi-config.json",
+  "srcLang": "zh-CN",
+  "distLangs": [
+    "en-US",
+    "zh-TW"
+  ],
+  "googleApiKey": "AIzaSyBm7NinfOuybtq-WWkcFMoiHHxMz60qxj0",
+  "importI18N": "sssadwad",
+  "ignoreDir": "",
+  "ignoreFile": ""
+}
